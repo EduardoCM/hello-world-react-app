@@ -28,6 +28,9 @@ function Login (){
           </form>
 
           <small>Create account <Link to="/createAccount"> Here</Link> </small>
+          <br />
+
+          <small>My first request <Link to="/nuevaSolicitud"> Here! </Link> </small>
         </>
     )
 }
